@@ -39,8 +39,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> ent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" heig<a href="https://skillicons.dev">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a> </p>
 
